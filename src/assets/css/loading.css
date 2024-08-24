@@ -1,0 +1,115 @@
+
+.loading-text .item .item-image {
+    width: 50px;
+    height: 50px;
+    animation: loader 3s infinite ease-in-out;
+    -webkit-animation: loader 3s infinite ease-in-out;
+    margin-right: 12px;
+  }
+  
+  .loading-text .item .content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 50px;
+  }
+  .loading-text .item .mt-10 {
+    margin-top: 10px;
+  }
+  
+  .loading-text .item .content div {
+    height: 12px;
+  }
+  .loading-text .item .content .div-5 {
+    width: 5%;
+  }
+  .loading-text .item .content .div-10 {
+    width: 10%;
+  }
+  .loading-text .item .content .div-15 {
+    width: 15%;
+  }
+  .loading-text .item .content .div-20 {
+    width: 20%;
+  }
+  .loading-text .item .content .div-20 {
+    width: 20%;
+  }
+  .loading-text .item .content .div-25 {
+    width: 25%;
+  }
+  .loading-text .item .content .div-30 {
+    width: 30%;
+  }
+  .loading-text .item .content .div-35 {
+    width: 35%;
+  }
+  .loading-text .item .content .div-40 {
+    width: 40%;
+  }
+  .loading-text .item .content .div-45 {
+    width: 45%;
+  }
+  .loading-text .item .content .div-50 {
+    width: 50%;
+  }
+  .loading-text .item .content .div-55 {
+    width: 55%;
+  }
+  .loading-text .item .content .div-60 {
+    width: 60%;
+  }
+  .loading-text .item .content .div-65 {
+    width: 65%;
+  }
+  .loading-text .item .content .div-70 {
+    width: 70%;
+  }
+  .loading-text .item .content .div-75 {
+    width: 75%;
+  }
+  .loading-text .item .content .div-80 {
+    width: 80%;
+  }
+  .loading-text .item .content .div-85 {
+    width: 85%;
+  }
+  .loading-text .item .content .div-90 {
+    width: 90%;
+  }
+  .loading-text .item .content .div-95 {
+    width: 95%;
+  }
+  .loading-text .item .content .div-100 {
+    width: 100%;
+  }
+  
+  .loading-text .anim {
+    animation: loader 3s infinite ease-in-out;
+    -webkit-animation: loader 3s infinite ease-in-out;
+  }
+  
+  @keyframes loader {
+    0% {
+      background-color: rgba(165, 165, 165, 0.1);
+    }
+    50% {
+      background-color: rgba(165, 165, 165, 0.3);
+    }
+    100% {
+      background-color: rgba(165, 165, 165, 0.1);
+    }
+  }
+  
+  @-webkit-keyframes loader {
+    0% {
+      background-color: rgba(165, 165, 165, 0.1);
+    }
+    50% {
+      background-color: rgba(165, 165, 165, 0.3);
+    }
+    100% {
+      background-color: rgba(165, 165, 165, 0.1);
+    }
+  }
+  
